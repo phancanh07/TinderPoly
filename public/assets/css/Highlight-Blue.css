@@ -3,7 +3,7 @@
   background-color: #1e6add;
   padding: 50px 0;
   height: 500px;
-  background-image: url("../../assets/img/3.jpg");
+  background-image: url("..");
   /*background-repeat: no-repeat,no;*/
   background-repeat: no-repeat;
   background-size: cover;
